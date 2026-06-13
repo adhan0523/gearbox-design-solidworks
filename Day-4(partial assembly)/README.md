@@ -9,10 +9,12 @@ The design focuses on gear meshing, shaft alignment, and assembly techniques com
 ## Components Used
 
 * Gearbox Housing
-* Spur Gears
 * Input Shaft
-* Intermediate Shafts
+* Speed Shaft
 * Output Shaft
+* Input Gear
+* Middle Gear
+* Output Gear
 
 ## Features
 
