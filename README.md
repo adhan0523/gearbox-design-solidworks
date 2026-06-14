@@ -1,28 +1,34 @@
-Sure. Here's the cleaned-up version without the **Screenshot** section:
-
 # ⚙️ Gearbox Design in SolidWorks
 
 ## About This Project
 
-This repository documents my progress while designing a gearbox in SolidWorks.
+This repository contains the complete design and assembly of a gearbox created in SolidWorks.
 
-The goal of this project is to improve my CAD modelling and mechanical design skills by designing and assembling gearbox components step by step. Rather than uploading a finished design, I am documenting the entire development process, including individual parts, assemblies, and design improvements as the project progresses.
+The project was developed to strengthen my understanding of mechanical power transmission systems, gear trains, shaft arrangements, and assembly design. The gearbox was designed by modeling individual components and assembling them into a functional mechanical system.
 
-This repository serves as both a learning project and a record of my design journey.
+This project serves as part of my CAD portfolio and demonstrates my skills in mechanical design, component modeling, and assembly creation using SolidWorks.
 
 ---
 
-## Why I Chose This Project
+## Components Used
 
-As a Mechatronics Engineering student, I wanted a project that would help me strengthen my understanding of:
+* Gearbox Housing
+* Input Shaft
+* Speed Shaft
+* Output Shaft
+* Input Gear
+* Middle Gear
+* Output Gear
 
-* Mechanical power transmission
-* Gear systems
-* Assembly design
-* CAD modelling techniques
-* Engineering design workflows
+---
 
-By building the gearbox component by component, I can better understand how each part contributes to the overall mechanism.
+## Project Objectives
+
+* Design a complete gearbox assembly in SolidWorks
+* Understand gear meshing and power transmission
+* Improve assembly design skills
+* Practice mechanical component modeling
+* Develop a professional CAD portfolio project
 
 ---
 
@@ -32,58 +38,69 @@ By building the gearbox component by component, I can better understand how each
 * GitHub
 
 ---
+## Screenshots
 
-## Current Progress
+### Final Gearbox Assembly
+<img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/147ad08a-03a8-4ca4-9b64-a007807d78fe" />
 
-The project is currently under development.
+---
+## Features
 
-Completed and ongoing work includes:
-
-* Gear modelling
-* Shaft design
-* Gearbox housing design
-* Assembly creation
-* Mechanical fit and alignment checks
-
-New files and screenshots will be uploaded regularly as the project progresses.
+* Complete gearbox assembly
+* Multiple meshing gears
+* Shaft and gear alignment
+* Detailed gearbox housing
+* Parametric CAD design
+* Motion-study ready assembly
 
 ---
 
-## What I Am Learning
+## Working Principle
 
-Throughout this project, I am improving my skills in:
+The gearbox transfers rotational motion from the input shaft to the output shaft through a series of meshing gears mounted on the speed shaft.
 
-* Sketch creation
-* Part modelling
-* Assembly techniques
-* Mates and constraints
-* Mechanical design concepts
-* CAD project organization
-* Engineering documentation
+The input gear drives the middle gear, which further transmits power to the output gear. Through this arrangement, speed and torque can be modified according to the selected gear ratios, demonstrating the fundamental principles of mechanical power transmission.
 
 ---
 
-## Future Plans
+## Skills Demonstrated
 
-* Complete the gearbox assembly
-* Refine component designs
-* Create motion studies
-* Generate technical drawings
-* Calculate gear ratios
-* Explore manufacturing considerations
+* 3D Part Modeling
+* Mechanical Assembly Design
+* Gear Train Design
+* Shaft Design
+* Assembly Mates and Constraints
+* Engineering Design Principles
+* CAD Project Documentation
 
 ---
 
-## Progress Updates
+## Learning Outcomes
 
-This repository will be updated regularly as new parts and assemblies are completed.
+Through this project, I gained practical experience in:
+
+* Designing gearbox components
+* Creating multi-part assemblies
+* Understanding gear interactions
+* Applying assembly constraints and mates
+* Improving CAD modeling accuracy
+* Organizing engineering design projects
+
+---
+
+## Repository Contents
+
+* SolidWorks Part Files (.SLDPRT)
+* SolidWorks Assembly Files (.SLDASM)
+* Assembly Screenshots
+* Motion Study / Animation Files
 
 ---
 
 ## Author
 
-**Adhan L**
+**Adhan Lenin**
 
-Final Year B.Tech Mechatronics Engineering Student
+B.Tech Mechatronics Engineering Student
 
-This is concise, professional, and clearly communicates that the repository is an ongoing engineering project rather than a finished product.
+This project is part of my CAD learning journey, where I design and assemble mechanical systems to strengthen my understanding of engineering design and SolidWorks.
