@@ -10,6 +10,12 @@ This project serves as part of my CAD portfolio and demonstrates my skills in me
 
 ---
 
+## Screenshots
+
+### Final Gearbox Assembly
+<img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/147ad08a-03a8-4ca4-9b64-a007807d78fe" />
+
+---
 ## Components Used
 
 * Gearbox Housing
@@ -36,12 +42,6 @@ This project serves as part of my CAD portfolio and demonstrates my skills in me
 
 * SolidWorks
 * GitHub
-
----
-## Screenshots
-
-### Final Gearbox Assembly
-<img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/147ad08a-03a8-4ca4-9b64-a007807d78fe" />
 
 ---
 ## Features
